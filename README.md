@@ -11,6 +11,7 @@
 
 ## BẢNG MỤC LỤC
 * [ Giới thiệu môn học](#gioithieumonhoc)
+* [ Giới thiệu bản thân](#gioithieubanthan)
 * [Quá trình môn học](#quatrinh)
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
@@ -22,6 +23,12 @@
 * **Lớp học**: CS114.P11
 * **Ngày bắt đầu**: 2/9/2024
 * **Năm học**: 2024-2025
+
+## GIỚI THIỆU BẢN THÂN
+<a name="gioithieubanthan"></a>
+* **Họ và Tên**: Ngô Thành Trung 
+* **MSSV**: 22521560
+* **Mã khoa**: KHMT2022.4
 ## QUÁ TRÌNH MÔN HỌC
 <a name ="quatrinh"></a>
 ### 1.LẬP TRÌNH PYTHON
